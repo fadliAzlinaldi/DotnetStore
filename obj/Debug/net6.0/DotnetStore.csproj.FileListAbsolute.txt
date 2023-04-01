@@ -1,0 +1,15 @@
+C:\RapidCsharp\DotnetStore\bin\Debug\net6.0\DotnetStore.exe
+C:\RapidCsharp\DotnetStore\bin\Debug\net6.0\DotnetStore.deps.json
+C:\RapidCsharp\DotnetStore\bin\Debug\net6.0\DotnetStore.runtimeconfig.json
+C:\RapidCsharp\DotnetStore\bin\Debug\net6.0\DotnetStore.dll
+C:\RapidCsharp\DotnetStore\bin\Debug\net6.0\DotnetStore.pdb
+C:\RapidCsharp\DotnetStore\obj\Debug\net6.0\DotnetStore.csproj.AssemblyReference.cache
+C:\RapidCsharp\DotnetStore\obj\Debug\net6.0\DotnetStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\RapidCsharp\DotnetStore\obj\Debug\net6.0\DotnetStore.AssemblyInfoInputs.cache
+C:\RapidCsharp\DotnetStore\obj\Debug\net6.0\DotnetStore.AssemblyInfo.cs
+C:\RapidCsharp\DotnetStore\obj\Debug\net6.0\DotnetStore.csproj.CoreCompileInputs.cache
+C:\RapidCsharp\DotnetStore\obj\Debug\net6.0\DotnetStore.dll
+C:\RapidCsharp\DotnetStore\obj\Debug\net6.0\refint\DotnetStore.dll
+C:\RapidCsharp\DotnetStore\obj\Debug\net6.0\DotnetStore.pdb
+C:\RapidCsharp\DotnetStore\obj\Debug\net6.0\DotnetStore.genruntimeconfig.cache
+C:\RapidCsharp\DotnetStore\obj\Debug\net6.0\ref\DotnetStore.dll
